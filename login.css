@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+h1 {
+    margin: 0;
+}
+.logo {
+    max-height: 100px; /* Set a maximum height for the logo */
+    margin-left: auto; /* Push the logo to the rightmost position */
+}
+.heading{
+    margin: 20px;
+}
